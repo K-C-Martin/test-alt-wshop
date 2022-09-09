@@ -79,7 +79,7 @@ the pitch.
 
 {% if site.pilot %}
 
-<h2>Git and Python</h2>
+<h3>Git and Python</h3>
 
 <a href="https://git-scm.com/">Git</a> is a powerful version control system that is becoming increasingly valuable as a tool for collaboration and Open Science.
 
@@ -88,7 +88,7 @@ the pitch.
 This workshop is a hands-on introduction to Git and Python for beginners, using material that has been adapted from the <a href="https://software-carpentry.org/lessons/">Software Carpentry</a> lesson materials.
 
 
-<h2>CarpentriesOffline</h2>
+<h3>CarpentriesOffline</h3>
 
 This workshop will be provided using the <a href="https://carpentries.org/blog/2022/07/carpentries-offline/">CarpentriesOffline</a> framework developed by Dr Jannetta Steyn and others. CarpentriesOffline is intended to enable workshops like these to be seamlessly provided to Learners under conditions of limited internet availability.
 
